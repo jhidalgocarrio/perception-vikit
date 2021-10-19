@@ -1,0 +1,10 @@
+<package>
+ <description brief="Vikit (Vision-Kit) provides some tools for your vision/robotics project.">
+
+  </description>
+  <author>C.Forster/forster@ifi.uzh.ch</author>
+  <maintainer>Javier Hidalgo/jhidalgocarrio@ifi.uzh.ch</maintainer>
+  <license></license>
+  <url>https://github.com/uzh-rpg/rpg_vikit</url>
+  <depend package="base/cmake" />
+</package>
